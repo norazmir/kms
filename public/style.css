@@ -1,0 +1,44 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.welcome{
+    border: 5px white solid;
+    background-color: #00E466;
+}
+.welcome h3{
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10px;
+    color: #3d0894;
+}
+.welcome p{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.welcome ul{
+    padding-left: 40px;
+}
+.list-table tr{
+    line-height:1.9em;
+}
+.list-table td{
+    margin:auto;
+}
+.list-table table{
+    border-spacing: 30px;
+    border-collapse: separate;
+}
+
+
+/*tr{*/
+/*    line-height:1.9em;*/
+/*}*/
+/*td{*/
+/*    margin:auto;*/
+/*}*/
+/*table{*/
+/*    border-spacing: 30px;*/
+/*    border-collapse: separate;*/
+/*}*/
+
